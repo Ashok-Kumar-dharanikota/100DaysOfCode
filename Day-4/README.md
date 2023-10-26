@@ -16,13 +16,3 @@ Solved few probelms on Numbers
 * Even or Odd
 * Check weather a given number is positive or negative
 * Sum of first N natural numbers
-* Find Sum of AP Series
-* Program to find sum of GP Series
-* Greatest of two numbers
-* Greatest of three numbers
-* Leap Year or not
-* Reverse digits of a number
-* Maximum and Minimum digit in a number
-* Print Fibonacci upto Nth Term
-* Factorial of a number
-* Power of a number
